@@ -1,3 +1,14 @@
+# General
+IDEA_*
+LOCAL_*
+LOGIN_*
+*.csv
+*.xlsx
+*.xls
+config.json
+*.DS_Store
+*.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
