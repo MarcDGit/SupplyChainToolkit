@@ -5,7 +5,8 @@ Creating a toolbelt for various tasks performed in modern supply chains for lear
 
 ## Main Areas
 
-Following main areas will be covered over time. This readme serves also as an idea log. 
+Following main areas will be covered over time. This readme serves also as an idea log.
+
 
 ### Demand Planning
 
